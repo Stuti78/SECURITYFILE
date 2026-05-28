@@ -1,1 +1,17 @@
+===== PASSWORD SECURITY ANALYSIS =====
 
+Enter a password: Security$1234
+
+Password Strength: Very Strong
+
+SHA-256 Hash:
+33b39a4f869c16328fc9d84a62a8574449883cb7a192704f1e70a3844771df4a
+
+Running Dictionary Attack Simulation...
+
+Attack Result: Password Found
+Recovered Password: Security$1234
+Time Taken: 0.0001 seconds
+
+===== SECURITY RECOMMENDATIONS =====
+- Password follows good security practices
